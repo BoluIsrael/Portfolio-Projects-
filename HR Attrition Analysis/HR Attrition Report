@@ -1,1 +1,30 @@
-https://www.linkedin.com/posts/boluwatife-lawal-b0980b139_hr-attrition-analysis-activity-7122168364751368194-g9xX?utm_source=share&utm_medium=member_desktop
+This is HR Attrition analysis using Tableau to find out employees attrition based on various categories and what could be the reasons employees were leaving.
+
+Insights
+• Most ex- employees are those with lower average monthly income (could be a good reason to leave when your pay is not encouraging).
+
+At $19,395.5, Research Director had the highest Average Monthly Income and was 720.20% higher than Sales Representative, which had the lowest Average Monthly Income at $2,364.7273.﻿﻿
+﻿﻿
+﻿﻿Generally, Average Monthly Income and Attrition trends are negatively correlated with each other and the Job Roles where the two trends diverge the most is the Manager and Research Director roles except for Job Roles in the Sales department ( Sales Executive and Sales Representatives).
+﻿﻿
+﻿﻿Laboratory Technician accounted for 26.16% of Attrited employees.﻿﻿
+﻿Count of Attrition for Male and Female diverged the most when the JobRole was Laboratory Technician, when Male were 30 higher than Female.﻿﻿
+﻿﻿
+• Most ex- employees are those whose avg monthly rate are lower, they work less (probably they don’t enjoy their work | the work is boring to them).
+
+﻿﻿Across all 9 JobRole, Average of MonthlyRate ranged from 12,853.08 to 21,020.50 and Count of Attrition ranged from 2 to 62.﻿﻿ Also, the two trends are generally divergent at every Job Role and they diverged the most at Manager and Research Director Roles.
+
+• Most ex- employees are those with lower average total working years ( that could imply that the current employees are those has zeal for their job roles while the ex-employees lost interest | got discouraged | got bored | not satisfied with their job roles).
+
+At 31.50, Research Director had the highest Average Total Working Years and was 803.91% higher than Sales Representative, which had the lowest Average of Total Working Years at 3.48.﻿﻿
+﻿﻿
+﻿﻿Average Total Working Years and total Count of Attrition are negatively correlated with each other.﻿﻿
+﻿﻿
+﻿﻿Count of Attrition and Average Total Working Years diverged the most when the Job Role was Laboratory Technician, when Count of Attrition were 55.89 higher than Average Total Working Years.
+
+• Most of the attrited employees are those that work overtime that the work become an overwhelming burden to them and due to that, they made the decision to leave the work.
+
+In comparison of the overtime and attrition trend, they move in similar direction for all job roles … meaning the more the employees doing overtime the more the attrition rate. So to reduce Attrition rate, working Overtime should be reduced.
+
+Link to the interactive version of this analysis - https://lnkd.in/dB7YspKN
+And Linkedin post - https://www.linkedin.com/posts/boluwatife-lawal-b0980b139_hr-attrition-analysis-activity-7122168364751368194-g9xX?utm_source=share&utm_medium=member_desktop
